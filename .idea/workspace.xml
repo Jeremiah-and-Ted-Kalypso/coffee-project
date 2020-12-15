@@ -73,6 +73,7 @@
       <workItem from="1607961604340" duration="190000" />
       <workItem from="1607961825908" duration="1592000" />
       <workItem from="1607966769128" duration="3670000" />
+      <workItem from="1608046980804" duration="5489000" />
     </task>
     <servers />
   </component>
@@ -111,9 +112,9 @@
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="1201" y="127" width="1259" height="1215" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2560.385.1920.1055/0.25.2560.1415@0.25.2560.1415" timestamp="1607975354179" />
-    <state x="2659" y="239" key="git4idea.branch.GitSmartOperationDialog" timestamp="1607966573458">
+    <state x="2659" y="239" key="git4idea.branch.GitSmartOperationDialog" timestamp="1607981882942">
       <screen x="1920" y="6" width="1920" height="1040" />
     </state>
-    <state x="2659" y="239" key="git4idea.branch.GitSmartOperationDialog/1920.6.1920.1040/0.0.1920.1040@1920.6.1920.1040" timestamp="1607966573458" />
+    <state x="2659" y="239" key="git4idea.branch.GitSmartOperationDialog/1920.6.1920.1040/0.0.1920.1040@1920.6.1920.1040" timestamp="1607981882942" />
   </component>
 </project>
